@@ -1,3 +1,1 @@
-# Hoc git co ban
-day la dong thu 2
-#dfsdfdfds
+Cộng hòa xã hội chủ nghĩa Việt Nam
