@@ -5,3 +5,4 @@ server: true
 markdown: rdiscount
 pygments: true
 permalink: /:year/:month/:title
+DDaay la dong 1
